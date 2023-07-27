@@ -7,6 +7,8 @@ version = "0.1"
 
 dependencies = ["sourmash>=4.8.0,<5",
                 "sourmash_plugin_venn"]
+#                "sourmash_plugin_load_urls",
+#                "sourmash_plugin_sketchall"
 
 [metadata]
 license = { text = "BSD 3-Clause License" }
