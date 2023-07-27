@@ -1,0 +1,14 @@
+[project]
+name = "sourmash_mixers"
+description = "this meta-package installs a collection of sourmash plugins!"
+readme = "README.md"
+requires-python = ">=3.8"
+version = "0.1"
+
+dependencies = ["sourmash>=4.8.0,<5",
+                "sourmash_plugin_venn"]
+
+[metadata]
+license = { text = "BSD 3-Clause License" }
+
+
