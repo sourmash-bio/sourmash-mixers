@@ -6,9 +6,16 @@ requires-python = ">=3.8"
 version = "0.1"
 
 dependencies = ["sourmash>=4.8.0,<5",
-                "sourmash_plugin_venn"]
-#                "sourmash_plugin_load_urls",
-#                "sourmash_plugin_sketchall"
+                "sourmash_plugin_venn",
+                "get-some-ncbi-genomes"]
+#"sourmash_plugin_load_urls",
+#"sourmash_plugin_sketchall"
+#"sourmash_plugin_load_urls"
+#"sourmash_plugin_avro"
+#"pyo3_branchwater.sourmash_plugin"
+#"sourmash_plugin_commonhash"
+#"sourmash_plugin_abundhist"
+
 
 [metadata]
 license = { text = "BSD 3-Clause License" }
