@@ -15,12 +15,16 @@ Absolute requirements for a plugin:
 Minimal requirements:
 
 - [ ] plugin has a basic README
+- [ ] if a script, `scripts` output is a good single line
 
 Upgrading your plugin:
 
-- [ ] plugin good default output for basic usage, `-h/--help`, and epilog
-- [ ] some automated tests
-
+- [ ] plugin code from template no longer has any 'xyz' strings
+- [ ] README contains example command lines, output, and/or screenshots
+- [ ] plugin has good default output for basic usage, `-h/--help`, and epilog
+- [ ] plugin has some automated tests
+- [ ] automated tests run on PRs and commits
+- [ ] `-q/--quiet` and `-d/--debug` suppress and produce output appropriately
 The long haul:
 
 - [ ] automated tests with good code coverage
