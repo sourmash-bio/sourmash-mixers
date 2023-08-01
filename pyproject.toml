@@ -6,10 +6,10 @@ requires-python = ">=3.8"
 version = "0.1"
 
 dependencies = ["sourmash>=4.8.0,<5",
-                "sourmash_plugin_venn",
-                "get-some-ncbi-genomes",
-                "sourmash_plugin_commonhash",
-                "sourmash_plugin_abundhist"
+                "sourmash_plugin_venn>=0.4",
+                "get-some-ncbi-genomes>=0.2",
+                "sourmash_plugin_commonhash>=0.3",
+                "sourmash_plugin_abundhist>=0.3"
                 ]
 #"sourmash_plugin_load_urls",
 #"sourmash_plugin_sketchall"
