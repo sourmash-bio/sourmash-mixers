@@ -25,6 +25,7 @@ Upgrading your plugin:
 - [ ] plugin has some automated tests
 - [ ] automated tests run on PRs and commits
 - [ ] `-q/--quiet` and `-d/--debug` suppress and produce output appropriately
+
 The long haul:
 
-- [ ] automated tests with good code coverage
+- [ ] plugin has automated tests with good code coverage
