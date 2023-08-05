@@ -10,7 +10,7 @@ available via `sourmash-mixers`, at least for now. "Maturity" rubrics
 are defined
 [here](https://github.com/ctb/sourmash-mixers/blob/main/.github/ISSUE_TEMPLATE/checklist-for-a-new-plugin.md), but it's an evolving criteria...
 
-The list of plugins installed by `sourmash-mixers` is available [in `pyproject.toml` under **dependencies**] - the list includes:
+The list of plugins installed by `sourmash-mixers` is available [in `pyproject.toml` under **dependencies**](https://github.com/ctb/sourmash-mixers/blob/main/pyproject.toml) - the list includes:
 
 * [a command-line plugin to produce 2- and 3-way Venn diagrams of sketches](https://github.com/sourmash-bio/sourmash_plugin_venn)
 * [a command-line plugin to sketch many samples or genomes](https://github.com/sourmash-bio/sourmash_plugin_sketchall)
