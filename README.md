@@ -28,7 +28,7 @@ will install the [latest version of `sourmash-mixers` from the Python Package In
 
 ## Usage
 
-Command-line plugins are available under:
+Command-line plugin subcommands can be listed by:
 ```
 sourmash scripts
 ```
@@ -62,5 +62,7 @@ implementation - can be found
 [in this blog post](http://ivory.idyll.org/blog/2023-sourmash-plugins-first-effort.html).
 
 If you're interested in adding your own plugin to sourmash-mixers
-specifically, please create a new issue with "Checklist for a new plugin"
-and fill it out as you can, and then ask for more instructions on that issue!
+specifically, please create
+[a new issue in the sourmash-mixers repository](https://github.com/ctb/sourmash-mixers/issues)
+with "Checklist for a new plugin" and fill it out as you can, and then
+ask for more instructions on that issue!
