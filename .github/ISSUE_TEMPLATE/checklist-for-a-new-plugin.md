@@ -14,6 +14,7 @@ Required: the plugin is -
 - [ ] posted to pypi
 - [ ] shows up properly after install with `info -v`
 - [ ] has correct installation requirements specified in `pyproject.toml`
+- [ ] is listed in sourmash-mixers `pyproject.toml` and `README.md`
 
 Strongly suggested:
 
