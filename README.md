@@ -24,7 +24,7 @@ This command:
 ```
 pip install sourmash-mixers
 ```
-will install the latest version of `sourmash-mixers`.
+will install the [latest version of `sourmash-mixers` from the Python Package Index](https://pypi.org/project/sourmash-mixers/).
 
 ## Usage
 
